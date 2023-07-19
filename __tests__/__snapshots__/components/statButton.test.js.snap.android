@@ -1,0 +1,219 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<StatButton/> <StatButton/> do not show 1`] = `null`;
+
+exports[`<StatButton/> <StatButton/> to show but entry and meet goal false  1`] = `
+<View
+  style={
+    Array [
+      Object {
+        "alignItems": "center",
+        "flexDirection": "column",
+        "marginVertical": 5,
+        "width": "25%",
+      },
+    ]
+  }
+>
+  <View
+    accessible={true}
+    collapsable={false}
+    focusable={false}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      Object {
+        "alignItems": "center",
+        "backgroundColor": "#232D37",
+        "borderColor": "white",
+        "borderRadius": 10,
+        "borderWidth": 2,
+        "height": 60,
+        "justifyContent": "center",
+        "marginVertical": 10,
+        "opacity": 1,
+        "width": 60,
+      }
+    }
+  >
+    <Text
+      style={
+        Object {
+          "color": "#D9D9D9",
+          "fontSize": 14,
+          "fontWeight": "bold",
+          "paddingBottom": 5,
+        }
+      }
+    >
+      0
+    </Text>
+    <Text
+      style={
+        Object {
+          "color": "#D9D9D9",
+          "fontSize": 8,
+        }
+      }
+    />
+  </View>
+  <Text
+    style={
+      Object {
+        "color": "#D9D9D9",
+        "fontSize": 12,
+        "textAlign": "center",
+      }
+    }
+  />
+</View>
+`;
+
+exports[`<StatButton/> <StatButton/> to show with entry and meet goal true  1`] = `
+<View
+  style={
+    Array [
+      Object {
+        "alignItems": "center",
+        "flexDirection": "column",
+        "marginVertical": 5,
+        "width": "25%",
+      },
+    ]
+  }
+>
+  <View
+    accessible={true}
+    collapsable={false}
+    focusable={false}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      Object {
+        "alignItems": "center",
+        "backgroundColor": "#232D37",
+        "borderColor": "#0da18c",
+        "borderRadius": 10,
+        "borderWidth": 2,
+        "height": 60,
+        "justifyContent": "center",
+        "marginVertical": 10,
+        "opacity": 1,
+        "width": 60,
+      }
+    }
+  >
+    <Text
+      style={
+        Object {
+          "color": "#D9D9D9",
+          "fontSize": 14,
+          "fontWeight": "bold",
+          "paddingBottom": 5,
+        }
+      }
+    >
+      10
+    </Text>
+    <Text
+      style={
+        Object {
+          "color": "#D9D9D9",
+          "fontSize": 8,
+        }
+      }
+    />
+  </View>
+  <Text
+    style={
+      Object {
+        "color": "#D9D9D9",
+        "fontSize": 12,
+        "textAlign": "center",
+      }
+    }
+  />
+</View>
+`;
+
+exports[`<StatButton/> <StatButton/> to show with entry but meet goal false  1`] = `
+<View
+  style={
+    Array [
+      Object {
+        "alignItems": "center",
+        "flexDirection": "column",
+        "marginVertical": 5,
+        "width": "25%",
+      },
+    ]
+  }
+>
+  <View
+    accessible={true}
+    collapsable={false}
+    focusable={false}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      Object {
+        "alignItems": "center",
+        "backgroundColor": "#232D37",
+        "borderColor": "#a10d22",
+        "borderRadius": 10,
+        "borderWidth": 2,
+        "height": 60,
+        "justifyContent": "center",
+        "marginVertical": 10,
+        "opacity": 1,
+        "width": 60,
+      }
+    }
+  >
+    <Text
+      style={
+        Object {
+          "color": "#D9D9D9",
+          "fontSize": 14,
+          "fontWeight": "bold",
+          "paddingBottom": 5,
+        }
+      }
+    >
+      10
+    </Text>
+    <Text
+      style={
+        Object {
+          "color": "#D9D9D9",
+          "fontSize": 8,
+        }
+      }
+    />
+  </View>
+  <Text
+    style={
+      Object {
+        "color": "#D9D9D9",
+        "fontSize": 12,
+        "textAlign": "center",
+      }
+    }
+  />
+</View>
+`;

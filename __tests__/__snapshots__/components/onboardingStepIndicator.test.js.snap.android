@@ -1,0 +1,196 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<OnboardingStepIndicator/> default 1`] = `
+<View
+  style={
+    Object {
+      "flexDirection": "row",
+      "justifyContent": "space-between",
+    }
+  }
+>
+  <View
+    style={
+      Object {
+        "backgroundColor": "#0D47A1",
+        "height": 10,
+        "width": "32%",
+      }
+    }
+  />
+  <View
+    style={
+      Object {
+        "backgroundColor": "#0D47A1",
+        "height": 10,
+        "width": "32%",
+      }
+    }
+  />
+  <View
+    style={
+      Object {
+        "backgroundColor": "#0D47A1",
+        "height": 10,
+        "width": "32%",
+      }
+    }
+  />
+</View>
+`;
+
+exports[`<OnboardingStepIndicator/> on step0 1`] = `
+<View
+  style={
+    Object {
+      "flexDirection": "row",
+      "justifyContent": "space-between",
+    }
+  }
+>
+  <View
+    style={
+      Object {
+        "backgroundColor": "#D9D9D9",
+        "height": 10,
+        "width": "32%",
+      }
+    }
+  />
+  <View
+    style={
+      Object {
+        "backgroundColor": "#D9D9D9",
+        "height": 10,
+        "width": "32%",
+      }
+    }
+  />
+  <View
+    style={
+      Object {
+        "backgroundColor": "#D9D9D9",
+        "height": 10,
+        "width": "32%",
+      }
+    }
+  />
+</View>
+`;
+
+exports[`<OnboardingStepIndicator/> on step1 1`] = `
+<View
+  style={
+    Object {
+      "flexDirection": "row",
+      "justifyContent": "space-between",
+    }
+  }
+>
+  <View
+    style={
+      Object {
+        "backgroundColor": "#0D47A1",
+        "height": 10,
+        "width": "32%",
+      }
+    }
+  />
+  <View
+    style={
+      Object {
+        "backgroundColor": "#D9D9D9",
+        "height": 10,
+        "width": "32%",
+      }
+    }
+  />
+  <View
+    style={
+      Object {
+        "backgroundColor": "#D9D9D9",
+        "height": 10,
+        "width": "32%",
+      }
+    }
+  />
+</View>
+`;
+
+exports[`<OnboardingStepIndicator/> on step2 1`] = `
+<View
+  style={
+    Object {
+      "flexDirection": "row",
+      "justifyContent": "space-between",
+    }
+  }
+>
+  <View
+    style={
+      Object {
+        "backgroundColor": "#0D47A1",
+        "height": 10,
+        "width": "32%",
+      }
+    }
+  />
+  <View
+    style={
+      Object {
+        "backgroundColor": "#0D47A1",
+        "height": 10,
+        "width": "32%",
+      }
+    }
+  />
+  <View
+    style={
+      Object {
+        "backgroundColor": "#D9D9D9",
+        "height": 10,
+        "width": "32%",
+      }
+    }
+  />
+</View>
+`;
+
+exports[`<OnboardingStepIndicator/> on step2 2`] = `
+<View
+  style={
+    Object {
+      "flexDirection": "row",
+      "justifyContent": "space-between",
+    }
+  }
+>
+  <View
+    style={
+      Object {
+        "backgroundColor": "#0D47A1",
+        "height": 10,
+        "width": "32%",
+      }
+    }
+  />
+  <View
+    style={
+      Object {
+        "backgroundColor": "#0D47A1",
+        "height": 10,
+        "width": "32%",
+      }
+    }
+  />
+  <View
+    style={
+      Object {
+        "backgroundColor": "#0D47A1",
+        "height": 10,
+        "width": "32%",
+      }
+    }
+  />
+</View>
+`;

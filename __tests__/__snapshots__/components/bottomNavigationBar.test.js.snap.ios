@@ -1,0 +1,1126 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<BottomNavigationBar/> <on goals 1`] = `
+<View
+  style={
+    Object {
+      "alignItems": "center",
+      "backgroundColor": "#13181A",
+      "borderColor": "#AAA",
+      "borderTopWidth": 0.5,
+      "bottom": 20,
+      "flexDirection": "row",
+      "height": 60,
+      "justifyContent": "space-evenly",
+      "paddingVertical": 5,
+      "position": "absolute",
+      "width": "100%",
+    }
+  }
+>
+  <View
+    accessible={true}
+    collapsable={false}
+    focusable={false}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      Object {
+        "alignItems": "center",
+        "flexDirection": "column",
+        "height": 50,
+        "justifyContent": "flex-end",
+        "opacity": 1,
+      }
+    }
+  >
+    <Text
+      allowFontScaling={false}
+      selectable={false}
+      style={
+        Array [
+          Object {
+            "color": "#AAA",
+            "fontSize": 24,
+          },
+          undefined,
+          Object {
+            "fontFamily": "ionicons",
+            "fontStyle": "normal",
+            "fontWeight": "normal",
+          },
+          Object {},
+        ]
+      }
+    >
+      
+    </Text>
+    <Text
+      style={
+        Array [
+          Object {
+            "color": "#AAA",
+            "fontSize": 10,
+            "paddingTop": 5,
+          },
+          Object {
+            "color": "#AAA",
+          },
+        ]
+      }
+    >
+      Home
+    </Text>
+  </View>
+  <View
+    accessible={true}
+    collapsable={false}
+    focusable={false}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      Object {
+        "alignItems": "center",
+        "flexDirection": "column",
+        "height": 50,
+        "justifyContent": "flex-end",
+        "opacity": 1,
+      }
+    }
+  >
+    <Text
+      allowFontScaling={false}
+      selectable={false}
+      style={
+        Array [
+          Object {
+            "color": "#AAA",
+            "fontSize": 26,
+          },
+          undefined,
+          Object {
+            "fontFamily": "ionicons",
+            "fontStyle": "normal",
+            "fontWeight": "normal",
+          },
+          Object {},
+        ]
+      }
+    >
+      
+    </Text>
+    <Text
+      style={
+        Array [
+          Object {
+            "color": "#AAA",
+            "fontSize": 10,
+            "paddingTop": 5,
+          },
+          Object {
+            "color": "#AAA",
+          },
+        ]
+      }
+    >
+      Entries
+    </Text>
+  </View>
+  <View
+    accessible={true}
+    collapsable={false}
+    focusable={false}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      Object {
+        "alignItems": "center",
+        "flexDirection": "column",
+        "height": 50,
+        "justifyContent": "flex-end",
+        "opacity": 1,
+      }
+    }
+  >
+    <Text
+      allowFontScaling={false}
+      selectable={false}
+      style={
+        Array [
+          Object {
+            "color": "#4EB9F5",
+            "fontSize": 24,
+          },
+          undefined,
+          Object {
+            "fontFamily": "ionicons",
+            "fontStyle": "normal",
+            "fontWeight": "normal",
+          },
+          Object {},
+        ]
+      }
+    >
+      
+    </Text>
+    <Text
+      style={
+        Array [
+          Object {
+            "color": "#AAA",
+            "fontSize": 10,
+            "paddingTop": 5,
+          },
+          Object {
+            "color": "#4EB9F5",
+          },
+        ]
+      }
+    >
+      Goals
+    </Text>
+  </View>
+  <View
+    accessible={true}
+    collapsable={false}
+    focusable={false}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      Object {
+        "alignItems": "center",
+        "flexDirection": "column",
+        "height": 50,
+        "justifyContent": "flex-end",
+        "opacity": 1,
+      }
+    }
+  >
+    <Text
+      allowFontScaling={false}
+      selectable={false}
+      style={
+        Array [
+          Object {
+            "color": "#AAA",
+            "fontSize": 24,
+          },
+          undefined,
+          Object {
+            "fontFamily": "ionicons",
+            "fontStyle": "normal",
+            "fontWeight": "normal",
+          },
+          Object {},
+        ]
+      }
+    >
+      
+    </Text>
+    <Text
+      style={
+        Array [
+          Object {
+            "color": "#AAA",
+            "fontSize": 10,
+            "paddingTop": 5,
+          },
+          Object {
+            "color": "#AAA",
+          },
+        ]
+      }
+    >
+      Profile
+    </Text>
+  </View>
+</View>
+`;
+
+exports[`<BottomNavigationBar/> default 1`] = `
+<View
+  style={
+    Object {
+      "alignItems": "center",
+      "backgroundColor": "#13181A",
+      "borderColor": "#AAA",
+      "borderTopWidth": 0.5,
+      "bottom": 20,
+      "flexDirection": "row",
+      "height": 60,
+      "justifyContent": "space-evenly",
+      "paddingVertical": 5,
+      "position": "absolute",
+      "width": "100%",
+    }
+  }
+>
+  <View
+    accessible={true}
+    collapsable={false}
+    focusable={false}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      Object {
+        "alignItems": "center",
+        "flexDirection": "column",
+        "height": 50,
+        "justifyContent": "flex-end",
+        "opacity": 1,
+      }
+    }
+  >
+    <Text />
+    <Text
+      style={
+        Array [
+          Object {
+            "color": "#AAA",
+            "fontSize": 10,
+            "paddingTop": 5,
+          },
+          Object {
+            "color": "#AAA",
+          },
+        ]
+      }
+    >
+      Home
+    </Text>
+  </View>
+  <View
+    accessible={true}
+    collapsable={false}
+    focusable={false}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      Object {
+        "alignItems": "center",
+        "flexDirection": "column",
+        "height": 50,
+        "justifyContent": "flex-end",
+        "opacity": 1,
+      }
+    }
+  >
+    <Text />
+    <Text
+      style={
+        Array [
+          Object {
+            "color": "#AAA",
+            "fontSize": 10,
+            "paddingTop": 5,
+          },
+          Object {
+            "color": "#AAA",
+          },
+        ]
+      }
+    >
+      Entries
+    </Text>
+  </View>
+  <View
+    accessible={true}
+    collapsable={false}
+    focusable={false}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      Object {
+        "alignItems": "center",
+        "flexDirection": "column",
+        "height": 50,
+        "justifyContent": "flex-end",
+        "opacity": 1,
+      }
+    }
+  >
+    <Text />
+    <Text
+      style={
+        Array [
+          Object {
+            "color": "#AAA",
+            "fontSize": 10,
+            "paddingTop": 5,
+          },
+          Object {
+            "color": "#AAA",
+          },
+        ]
+      }
+    >
+      Goals
+    </Text>
+  </View>
+  <View
+    accessible={true}
+    collapsable={false}
+    focusable={false}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      Object {
+        "alignItems": "center",
+        "flexDirection": "column",
+        "height": 50,
+        "justifyContent": "flex-end",
+        "opacity": 1,
+      }
+    }
+  >
+    <Text />
+    <Text
+      style={
+        Array [
+          Object {
+            "color": "#AAA",
+            "fontSize": 10,
+            "paddingTop": 5,
+          },
+          Object {
+            "color": "#AAA",
+          },
+        ]
+      }
+    >
+      Profile
+    </Text>
+  </View>
+</View>
+`;
+
+exports[`<BottomNavigationBar/> on entries 1`] = `
+<View
+  style={
+    Object {
+      "alignItems": "center",
+      "backgroundColor": "#13181A",
+      "borderColor": "#AAA",
+      "borderTopWidth": 0.5,
+      "bottom": 20,
+      "flexDirection": "row",
+      "height": 60,
+      "justifyContent": "space-evenly",
+      "paddingVertical": 5,
+      "position": "absolute",
+      "width": "100%",
+    }
+  }
+>
+  <View
+    accessible={true}
+    collapsable={false}
+    focusable={false}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      Object {
+        "alignItems": "center",
+        "flexDirection": "column",
+        "height": 50,
+        "justifyContent": "flex-end",
+        "opacity": 1,
+      }
+    }
+  >
+    <Text
+      allowFontScaling={false}
+      selectable={false}
+      style={
+        Array [
+          Object {
+            "color": "#AAA",
+            "fontSize": 24,
+          },
+          undefined,
+          Object {
+            "fontFamily": "ionicons",
+            "fontStyle": "normal",
+            "fontWeight": "normal",
+          },
+          Object {},
+        ]
+      }
+    >
+      
+    </Text>
+    <Text
+      style={
+        Array [
+          Object {
+            "color": "#AAA",
+            "fontSize": 10,
+            "paddingTop": 5,
+          },
+          Object {
+            "color": "#AAA",
+          },
+        ]
+      }
+    >
+      Home
+    </Text>
+  </View>
+  <View
+    accessible={true}
+    collapsable={false}
+    focusable={false}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      Object {
+        "alignItems": "center",
+        "flexDirection": "column",
+        "height": 50,
+        "justifyContent": "flex-end",
+        "opacity": 1,
+      }
+    }
+  >
+    <Text
+      allowFontScaling={false}
+      selectable={false}
+      style={
+        Array [
+          Object {
+            "color": "#4EB9F5",
+            "fontSize": 26,
+          },
+          undefined,
+          Object {
+            "fontFamily": "ionicons",
+            "fontStyle": "normal",
+            "fontWeight": "normal",
+          },
+          Object {},
+        ]
+      }
+    >
+      
+    </Text>
+    <Text
+      style={
+        Array [
+          Object {
+            "color": "#AAA",
+            "fontSize": 10,
+            "paddingTop": 5,
+          },
+          Object {
+            "color": "#4EB9F5",
+          },
+        ]
+      }
+    >
+      Entries
+    </Text>
+  </View>
+  <View
+    accessible={true}
+    collapsable={false}
+    focusable={false}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      Object {
+        "alignItems": "center",
+        "flexDirection": "column",
+        "height": 50,
+        "justifyContent": "flex-end",
+        "opacity": 1,
+      }
+    }
+  >
+    <Text
+      allowFontScaling={false}
+      selectable={false}
+      style={
+        Array [
+          Object {
+            "color": "#AAA",
+            "fontSize": 24,
+          },
+          undefined,
+          Object {
+            "fontFamily": "ionicons",
+            "fontStyle": "normal",
+            "fontWeight": "normal",
+          },
+          Object {},
+        ]
+      }
+    >
+      
+    </Text>
+    <Text
+      style={
+        Array [
+          Object {
+            "color": "#AAA",
+            "fontSize": 10,
+            "paddingTop": 5,
+          },
+          Object {
+            "color": "#AAA",
+          },
+        ]
+      }
+    >
+      Goals
+    </Text>
+  </View>
+  <View
+    accessible={true}
+    collapsable={false}
+    focusable={false}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      Object {
+        "alignItems": "center",
+        "flexDirection": "column",
+        "height": 50,
+        "justifyContent": "flex-end",
+        "opacity": 1,
+      }
+    }
+  >
+    <Text
+      allowFontScaling={false}
+      selectable={false}
+      style={
+        Array [
+          Object {
+            "color": "#AAA",
+            "fontSize": 24,
+          },
+          undefined,
+          Object {
+            "fontFamily": "ionicons",
+            "fontStyle": "normal",
+            "fontWeight": "normal",
+          },
+          Object {},
+        ]
+      }
+    >
+      
+    </Text>
+    <Text
+      style={
+        Array [
+          Object {
+            "color": "#AAA",
+            "fontSize": 10,
+            "paddingTop": 5,
+          },
+          Object {
+            "color": "#AAA",
+          },
+        ]
+      }
+    >
+      Profile
+    </Text>
+  </View>
+</View>
+`;
+
+exports[`<BottomNavigationBar/> on home 1`] = `
+<View
+  style={
+    Object {
+      "alignItems": "center",
+      "backgroundColor": "#13181A",
+      "borderColor": "#AAA",
+      "borderTopWidth": 0.5,
+      "bottom": 20,
+      "flexDirection": "row",
+      "height": 60,
+      "justifyContent": "space-evenly",
+      "paddingVertical": 5,
+      "position": "absolute",
+      "width": "100%",
+    }
+  }
+>
+  <View
+    accessible={true}
+    collapsable={false}
+    focusable={false}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      Object {
+        "alignItems": "center",
+        "flexDirection": "column",
+        "height": 50,
+        "justifyContent": "flex-end",
+        "opacity": 1,
+      }
+    }
+  >
+    <Text />
+    <Text
+      style={
+        Array [
+          Object {
+            "color": "#AAA",
+            "fontSize": 10,
+            "paddingTop": 5,
+          },
+          Object {
+            "color": "#4EB9F5",
+          },
+        ]
+      }
+    >
+      Home
+    </Text>
+  </View>
+  <View
+    accessible={true}
+    collapsable={false}
+    focusable={false}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      Object {
+        "alignItems": "center",
+        "flexDirection": "column",
+        "height": 50,
+        "justifyContent": "flex-end",
+        "opacity": 1,
+      }
+    }
+  >
+    <Text />
+    <Text
+      style={
+        Array [
+          Object {
+            "color": "#AAA",
+            "fontSize": 10,
+            "paddingTop": 5,
+          },
+          Object {
+            "color": "#AAA",
+          },
+        ]
+      }
+    >
+      Entries
+    </Text>
+  </View>
+  <View
+    accessible={true}
+    collapsable={false}
+    focusable={false}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      Object {
+        "alignItems": "center",
+        "flexDirection": "column",
+        "height": 50,
+        "justifyContent": "flex-end",
+        "opacity": 1,
+      }
+    }
+  >
+    <Text />
+    <Text
+      style={
+        Array [
+          Object {
+            "color": "#AAA",
+            "fontSize": 10,
+            "paddingTop": 5,
+          },
+          Object {
+            "color": "#AAA",
+          },
+        ]
+      }
+    >
+      Goals
+    </Text>
+  </View>
+  <View
+    accessible={true}
+    collapsable={false}
+    focusable={false}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      Object {
+        "alignItems": "center",
+        "flexDirection": "column",
+        "height": 50,
+        "justifyContent": "flex-end",
+        "opacity": 1,
+      }
+    }
+  >
+    <Text />
+    <Text
+      style={
+        Array [
+          Object {
+            "color": "#AAA",
+            "fontSize": 10,
+            "paddingTop": 5,
+          },
+          Object {
+            "color": "#AAA",
+          },
+        ]
+      }
+    >
+      Profile
+    </Text>
+  </View>
+</View>
+`;
+
+exports[`<BottomNavigationBar/> on profile 1`] = `
+<View
+  style={
+    Object {
+      "alignItems": "center",
+      "backgroundColor": "#13181A",
+      "borderColor": "#AAA",
+      "borderTopWidth": 0.5,
+      "bottom": 20,
+      "flexDirection": "row",
+      "height": 60,
+      "justifyContent": "space-evenly",
+      "paddingVertical": 5,
+      "position": "absolute",
+      "width": "100%",
+    }
+  }
+>
+  <View
+    accessible={true}
+    collapsable={false}
+    focusable={false}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      Object {
+        "alignItems": "center",
+        "flexDirection": "column",
+        "height": 50,
+        "justifyContent": "flex-end",
+        "opacity": 1,
+      }
+    }
+  >
+    <Text
+      allowFontScaling={false}
+      selectable={false}
+      style={
+        Array [
+          Object {
+            "color": "#AAA",
+            "fontSize": 24,
+          },
+          undefined,
+          Object {
+            "fontFamily": "ionicons",
+            "fontStyle": "normal",
+            "fontWeight": "normal",
+          },
+          Object {},
+        ]
+      }
+    >
+      
+    </Text>
+    <Text
+      style={
+        Array [
+          Object {
+            "color": "#AAA",
+            "fontSize": 10,
+            "paddingTop": 5,
+          },
+          Object {
+            "color": "#AAA",
+          },
+        ]
+      }
+    >
+      Home
+    </Text>
+  </View>
+  <View
+    accessible={true}
+    collapsable={false}
+    focusable={false}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      Object {
+        "alignItems": "center",
+        "flexDirection": "column",
+        "height": 50,
+        "justifyContent": "flex-end",
+        "opacity": 1,
+      }
+    }
+  >
+    <Text
+      allowFontScaling={false}
+      selectable={false}
+      style={
+        Array [
+          Object {
+            "color": "#AAA",
+            "fontSize": 26,
+          },
+          undefined,
+          Object {
+            "fontFamily": "ionicons",
+            "fontStyle": "normal",
+            "fontWeight": "normal",
+          },
+          Object {},
+        ]
+      }
+    >
+      
+    </Text>
+    <Text
+      style={
+        Array [
+          Object {
+            "color": "#AAA",
+            "fontSize": 10,
+            "paddingTop": 5,
+          },
+          Object {
+            "color": "#AAA",
+          },
+        ]
+      }
+    >
+      Entries
+    </Text>
+  </View>
+  <View
+    accessible={true}
+    collapsable={false}
+    focusable={false}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      Object {
+        "alignItems": "center",
+        "flexDirection": "column",
+        "height": 50,
+        "justifyContent": "flex-end",
+        "opacity": 1,
+      }
+    }
+  >
+    <Text
+      allowFontScaling={false}
+      selectable={false}
+      style={
+        Array [
+          Object {
+            "color": "#AAA",
+            "fontSize": 24,
+          },
+          undefined,
+          Object {
+            "fontFamily": "ionicons",
+            "fontStyle": "normal",
+            "fontWeight": "normal",
+          },
+          Object {},
+        ]
+      }
+    >
+      
+    </Text>
+    <Text
+      style={
+        Array [
+          Object {
+            "color": "#AAA",
+            "fontSize": 10,
+            "paddingTop": 5,
+          },
+          Object {
+            "color": "#AAA",
+          },
+        ]
+      }
+    >
+      Goals
+    </Text>
+  </View>
+  <View
+    accessible={true}
+    collapsable={false}
+    focusable={false}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      Object {
+        "alignItems": "center",
+        "flexDirection": "column",
+        "height": 50,
+        "justifyContent": "flex-end",
+        "opacity": 1,
+      }
+    }
+  >
+    <Text
+      allowFontScaling={false}
+      selectable={false}
+      style={
+        Array [
+          Object {
+            "color": "#4EB9F5",
+            "fontSize": 24,
+          },
+          undefined,
+          Object {
+            "fontFamily": "ionicons",
+            "fontStyle": "normal",
+            "fontWeight": "normal",
+          },
+          Object {},
+        ]
+      }
+    >
+      
+    </Text>
+    <Text
+      style={
+        Array [
+          Object {
+            "color": "#AAA",
+            "fontSize": 10,
+            "paddingTop": 5,
+          },
+          Object {
+            "color": "#4EB9F5",
+          },
+        ]
+      }
+    >
+      Profile
+    </Text>
+  </View>
+</View>
+`;

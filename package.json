@@ -6,13 +6,51 @@
     "start": "expo start",
     "android": "expo start --android",
     "ios": "expo start --ios",
-    "web": "expo start --web"
+    "web": "expo start --web",
+    "test": "jest --watch"
+  },
+  "jest": {
+    "projects": [
+      {
+        "preset": "jest-expo/ios"
+      },
+      {
+        "preset": "jest-expo/android"
+      }
+    ],
+    "collectCoverage": true,
+    "collectCoverageFrom": [
+      "**/*.{js,jsx}",
+      "!**/coverage/**",
+      "!**/node_modules/**",
+      "!**/babel.config.js",
+      "!**/jest.setup.js"
+    ],
+    "transformIgnorePatterns": [
+      "node_modules/(?!((jest-)?react-native|@react-native(-community)?)|expo(nent)?|@expo(nent)?/.*|@expo-google-fonts/.*|react-navigation|@react-navigation/.*|@unimodules/.*|unimodules|sentry-expo|native-base|react-native-svg)|@testing-library/.*|@react-navigation/.*|expo-sqlite"
+    ]
   },
   "dependencies": {
+    "@react-native-async-storage/async-storage": "^1.17.11",
+    "@react-native-community/datetimepicker": "6.5.2",
+    "@react-navigation/bottom-tabs": "^6.5.3",
+    "@react-navigation/native": "^6.1.2",
+    "@react-navigation/stack": "^6.3.11",
+    "@testing-library/react-native": "^11.5.4",
+    "date-fns": "^2.29.3",
     "expo": "~47.0.12",
+    "expo-sqlite": "~11.0.0",
     "expo-status-bar": "~1.4.2",
+    "expo-updates": "~0.15.6",
+    "express": "^4.18.2",
+    "jest": "^26.6.3",
+    "jest-expo": "^48.0.2",
     "react": "18.1.0",
-    "react-native": "0.70.5"
+    "react-native": "0.70.5",
+    "react-native-safe-area-context": "4.4.1",
+    "react-native-screens": "~3.18.0",
+    "react-native-tableview-simple": "^4.3.1",
+    "react-test-renderer": "^18.1.0"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9"

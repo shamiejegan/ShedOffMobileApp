@@ -1,0 +1,116 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Welcome default 1`] = `
+<View
+  style={
+    Object {
+      "backgroundColor": "#13181A",
+      "flex": 1,
+      "flexDirection": "column",
+      "height": "100%",
+      "justifyContent": "center",
+      "width": "100%",
+    }
+  }
+>
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "flexDirection": "column",
+        "justifyContent": "center",
+        "margin": 20,
+        "padding": 20,
+      }
+    }
+  >
+    <Image
+      resizeMode="contain"
+      source={1}
+      style={
+        Object {
+          "width": "100%",
+        }
+      }
+    />
+    <View
+      accessible={true}
+      collapsable={false}
+      focusable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "alignItems": "center",
+          "alignSelf": "center",
+          "backgroundColor": "#11CCFF",
+          "borderRadius": 10,
+          "height": 50,
+          "justifyContent": "center",
+          "marginVertical": 50,
+          "opacity": 1,
+          "width": "70%",
+        }
+      }
+      testID="signup"
+    >
+      <Text
+        style={
+          Object {
+            "fontWeight": "bold",
+          }
+        }
+      >
+        Register Today!
+      </Text>
+    </View>
+    <Text
+      style={
+        Object {
+          "alignSelf": "center",
+          "color": "#D9D9D9",
+          "paddingTop": 50,
+        }
+      }
+    >
+      Already have an account?
+    </Text>
+    <View
+      accessible={true}
+      collapsable={false}
+      focusable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "margin": 10,
+          "opacity": 1,
+        }
+      }
+      testID="signin"
+    >
+      <Text
+        style={
+          Object {
+            "color": "#11CCFF",
+            "fontSize": "20",
+            "fontWeight": "bold",
+          }
+        }
+      >
+        LOG IN
+      </Text>
+    </View>
+  </View>
+</View>
+`;
