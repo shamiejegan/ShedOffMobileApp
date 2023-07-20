@@ -2,7 +2,7 @@
 ShedOff is a simple mobile application that helps users on their weight loss journey. There are 2 main goals of this application. First, it aims to help users build consistency and achieve their weight loss goals through small daily targets. Second, it aims to help provide a holistic view for users to manage and understand the factors affecting their weight loss journey.  
 
 # Accessing the app 
-The application’s source code has been submitted along with this report. I have also included an Expo link, which you can access here:
+You can access the Expo link here:
 https://expo.dev/accounts/shaymee/projects/shedoff/updates/07f30ad1-74f3-4fe1-b76e-64ca8cbf92aa 
 
 - iOS: exp://u.expo.dev/update/f083228a-bc21-4bf4-a63a-b951522e7fda
